@@ -43,6 +43,7 @@ public class Rational{
 
         return a.getDenominador()*b.getNumerador() == b.getDenominador()*a.getNumerador();
     }
+    //asdasd
     @Override
     public String toString() {
         return r[0] + "/" +r[1];
